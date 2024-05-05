@@ -1,6 +1,6 @@
 # InsectClassificationProject
 
-# For an in depth analysis, READ OUR BLOG POST: 
+## For an in depth analysis, READ OUR BLOG POST: https://medium.com/@demac21/debug-insect-species-identification-cnn-49b6994b1a39
 
 # De-Bug: Insect Species Identification Using CNN
 
@@ -16,4 +16,5 @@ The dataset used is publicly available from the Natural History Museum London, o
 ## Project Structure
 - **insect-classification-project-2.ipynb**: The Jupyter notebook containing all our project's code, including data preprocessing, model training, and evaluation.
 
-## To run our code via Kaggle, here is our Kaggle notebook for this project: https://www.kaggle.com/code/charlottedemas/insect-classification-project
+## To run our code via Kaggle, here is our Kaggle notebook for this project: 
+https://www.kaggle.com/code/charlottedemas/insect-classification-project
